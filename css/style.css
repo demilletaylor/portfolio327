@@ -88,7 +88,9 @@ a,link{
     color: #fddc5c;
 }
 a:hover{
-border: #fddc5c;}
+    background-color: #fddc5c;
+}
+
 
 footer{
     background-color: #602a20;
