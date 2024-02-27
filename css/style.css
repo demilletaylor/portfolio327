@@ -8,8 +8,15 @@ body{
 .logo{
     display: block;
     margin-left: auto;
-    margin-right: auto;}
+    margin-right: auto;
+    box-shadow:#1c2d22 10px, 0px;
 
+}
+header{
+    background-image: url(../img/backgroundheader.png);
+    background-size: contain;
+    background-blend-mode:soft-light;
+}
 h1{
     text-align: center;
     font-family: "fields", sans-serif;
@@ -70,7 +77,7 @@ section{
 
 }
 hr{
-    border: solid #fec5e5 5px;
+    border: solid #fec5e5 3px;
 }
 a,link{
     text-align: center;
